@@ -4,10 +4,12 @@ If you are reading my content, understanding my background knowledge may help yo
 - Computer Architecture
   
   Mattbatwings' Redstone Computer
+  
   NAND2Tetris
 - Behavioral Economics
   
   Thinking, Fast and Slow
+  
   Misbehaving
 - Artificial Intelligence
   
